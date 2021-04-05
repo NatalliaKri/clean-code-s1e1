@@ -70,7 +70,7 @@ h3,
     margin: 0;
     text-transform: uppercase;
 }
-input[type="text"] {
+.task {
     margin: 0;
     font-size: 18px;
     line-height: 18px;
@@ -82,12 +82,12 @@ input[type="text"] {
     font-family: Lato, sans-serif;
     color: #888;
 }
-input[type="text"]:focus {
+.task:focus {
     color: #333;
 }
 
 /* New Task */
-label[for="new-task"] {
+.add-item-label {
     display: block;
     margin: 0 0 20px;
 }
