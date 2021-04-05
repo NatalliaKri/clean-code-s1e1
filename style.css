@@ -70,7 +70,7 @@ h3,
     margin: 0;
     text-transform: uppercase;
 }
-.task {
+.input-task {
     margin: 0;
     font-size: 18px;
     line-height: 18px;
@@ -82,7 +82,7 @@ h3,
     font-family: Lato, sans-serif;
     color: #888;
 }
-.task:focus {
+.input-task:focus {
     color: #333;
 }
 
