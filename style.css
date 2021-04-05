@@ -64,7 +64,7 @@ edit:hover {
     color: #3a3a3a;
 }
 /* Heading */
-h3,
+.title,
 .add-item-label {
     color: #333;
     font-weight: 700;
@@ -100,7 +100,8 @@ input#new-task {
 }
 
 /* Task list */
-li {
+.edited-task,
+.edit-mode{
     overflow: hidden;
     padding: 20px 0;
     border-bottom: 1px solid #eee;
