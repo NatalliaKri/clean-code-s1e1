@@ -18,9 +18,9 @@ body {
 }
 
 @media (max-width:768px) {
-.main-picture { 
+  .main-picture { 
     text-align: center;
-}
+  }
 }
 .centered-main-page-element {
     display: block;
