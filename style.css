@@ -114,7 +114,8 @@ li > * {
     vertical-align: middle;
 }
 
-li > input[type="checkbox"] {
+.edited-task .input-checkbox,
+.edit-mode .input-checkbox  {
     margin: 0 10px;
 }
 li > label {
